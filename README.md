@@ -37,7 +37,7 @@ In order to utilize this project you'll need the following:
 
 1. Open your preferred web browser.
 2. Install ViolentMonkey.
-3. Install "**Flint**" as a script within ViolentMonkey ([Click Here](flint/ember-flint.user?raw=True)).
+3. Install "**Flint**" as a script within ViolentMonkey ([Click Here](https://github.com/rgdan/Ember/raw/refs/heads/main/flint/ember-flint.user.js)).
 4. Go to the ITCR "**matrícula**" page, sign in, and get to the page where all the courses are listed.
  
 ![step_4_image](images/flint_ss_1.png)
